@@ -43,8 +43,8 @@ This project simulates a real-world booking flow similar to what users would exp
 
 ### Screenshots
 
+![little-lemon](https://github.com/user-attachments/assets/23525e94-13e5-4517-9641-6d65975d266e)
 
-<img width="996" height="698" alt="little-lemon" src="https://github.com/user-attachments/assets/a5f835a1-b7d1-46bf-b0c0-418ad3be27fe" />
 
 ---
 
